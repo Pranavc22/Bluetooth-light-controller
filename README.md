@@ -15,7 +15,7 @@ The IoT device was installed with an Arduino chip, a bluetooth module and some L
 
 ## Resources
 Here are some resources which helped me make the app: 
-- [Article for understanding Bluetooth functionality](https://medium.com/flutter-community/flutter-adding-bluetooth-functionality-1b9715ccc698)
+- [Medium article for understanding Bluetooth functionality](https://medium.com/flutter-community/flutter-adding-bluetooth-functionality-1b9715ccc698)
 - [Github Repo for the app's skeleton structure](https://github.com/sbis04/flutter_bluetooth)
 - Used various articles online. 
 - Checked out documentation for the implementation of various new widgets. 
